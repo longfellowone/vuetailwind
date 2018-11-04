@@ -1,3 +1,4 @@
+<!--
 <template>
   <div id="app" class="bg-blue bg-green bg bg-green b">
       <div class="bg-green text-blue-green mx px-16 mx-auto"></div>
@@ -28,3 +29,4 @@ export default {
   margin-top: 60px
 }
 </style>
+-->
